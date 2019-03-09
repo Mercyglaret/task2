@@ -1,0 +1,130 @@
+  h1{
+	color: white;
+	font-size: 50px;
+ }
+ h2{
+ 	font-size: 18px;
+ }
+ p{
+ 	font-size: 15px;
+ 	color: white;
+ 	margin-left: 10px;
+ }
+ button{
+ 	float: left;
+    width: 115px; height: 38px; 
+    border-radius: 5px;
+    box-shadow: 2px;
+    color: #4c95d6; 
+    background-color: white;
+    margin-left:10px;
+    margin-top: 10px;
+    
+    }
+    input[type=text] {
+  width: 250px;
+  box-sizing: border-box;
+  border: 2px solid  #4c95d6;
+  border-radius: 20px;
+  height: 30px;
+  background-image: url('search32.png');
+  background-color: #06579e;
+  background-size: 15px,15px;
+  background-repeat: no-repeat;
+  background-position: 5px 5px; 
+
+
+
+ 
+}
+input[type=text]:focus {
+ background-color: #06579e;
+ color: #06579e;
+
+}
+ul,li{
+	color: white;
+	margin-left: 50px;
+	font-size: 40px;
+
+}
+ul{
+  list-style-type: none;
+
+}
+
+.but{
+    	
+    	margin-left: 100px;
+    }
+
+ *{
+    margin:0;
+    padding:0;
+  }
+
+.header{
+	width: 100%;
+	height: 57px;
+	background-color: #4c95d6;
+}
+.top-right {
+  position: absolute;
+  top: 70px;
+  right: 200px;
+}
+.image{
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+.small{
+	
+	color: white;
+	margin-left: 200px;
+	
+}
+.shop{
+	height: 22px;
+	width: 100px;
+	background-color: #efa306;
+	color: white;
+	margin-left: 350px;
+	margin-bottom: 100px;
+	    margin-top: -20px;
+}
+.cart{
+	width: 15px;
+	height: 15px;
+	margin-right: 4px;
+
+}
+.image1{
+			width: 35px;
+			height: 35px;
+
+}
+.text3{
+			float: right;
+			font-size: 25px;
+			margin-right: 170px;
+			}
+.table3{
+        	width: 27%;
+        	margin: 15px;
+            float: left;
+}
+.para{
+	color: black;
+	text-align: justify;
+}
+.table2nd{
+	margin-left: 90px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+
+}
+
